@@ -1,9 +1,0 @@
-mcp>=1.9,<2
-pydantic>=2.6
-httpx>=0.27
-fastapi>=0.110
-uvicorn>=0.29
-python-dotenv>=1.0
-pytest>=8.0
-# Optional, only for LLM_PROVIDER=gemini
-# google-genai>=1.0
